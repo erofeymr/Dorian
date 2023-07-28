@@ -13,3 +13,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/Dorian/Map/Level_1.umap
+Content/Dorian/UI/HUD/MainHUD.uasset
